@@ -6,7 +6,7 @@
    <UUID>bff0bf2b-df31-4317-82c1-10d1dea2f215</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>D:\Rizkys\katalon-projects\test-dansmulitipro\test-dansmulitipro.prj</projectFileLocation>
+   <projectFileLocation>D:\Rizkys\katalon-projects\test-git\ui-automation-katalon</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
