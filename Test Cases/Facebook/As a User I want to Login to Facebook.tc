@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>As a User I want to Login to Facebook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9329b2c-4585-4cba-90e8-2ce336ca2c7b</testCaseGuid>
+</TestCaseEntity>
